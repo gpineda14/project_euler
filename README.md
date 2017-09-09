@@ -12,8 +12,12 @@ The even fibonacci function finds all fibonaccis under n and then selects all th
 
 ## Largest Prime
 
-The function largest_prime finds the largest prime factor of a number n. 
+The function largest_prime finds the largest prime factor of a number n.
 
 ## Largest Palindrome
 
 The function finds the largest palindrome of a product of two three digit numbers
+
+## Smallest Multiple
+
+The function finds the smallest number that is divisible by numbers 1-20. I completed the function but it is not optimized so it takes a while to get the answer. 
